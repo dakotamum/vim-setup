@@ -1,10 +1,10 @@
-# vim-setup
-My preferred vim setup
+# neovim-setup
+My preferred neovim setup
 
-This is my vim setup on ubuntu-based linux distros.
+This is my neovim setup on ubuntu-based linux distros.
 It contains:
   * vimrc
   * tmux.conf
-  * setup.sh script to install software and clone necessary plugin repos including vundle and YouCompleteMe
+  * setup.sh script to install software and clone necessary plugin repos including vim-plug and YouCompleteMe
 
-Simply clone this repo and run ./setup.sh to run with my vim configuration.
+Simply clone this repo and run ./setup.sh to run with my neovim configuration.
